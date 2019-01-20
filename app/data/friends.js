@@ -1,4 +1,4 @@
-var friends = [
+let friends = [
     {
       name: "Ross Geller",
       photo: "http://68.media.tumblr.com/6cea09c793de512f267ffb4dc783f466/tumblr_mh3c4hFGPu1r9zaago1_500.gif",
