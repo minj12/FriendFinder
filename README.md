@@ -5,7 +5,7 @@ Once the test is done you will be matched with your potential friend.
 
 ## Deployment
 *link to app*
-1. npm install:https://git.heroku.com/shrouded-journey-99002.git
+https://git.heroku.com/shrouded-journey-99002.git
 
 ## Used Technology
 * Node.js
