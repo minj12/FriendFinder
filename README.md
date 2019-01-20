@@ -13,3 +13,4 @@ Once the test is done you will be matched with your potential friend.
 * Javascript
 * Bootstrap
 * Heroku
+* And more...
