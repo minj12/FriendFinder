@@ -9,41 +9,33 @@
 
   <!-- compiled and minified CSS & JS -->
  <!-- CSS & JS -->
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
- <script src="https://code.jquery.com/jquery.js"></script>
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Home</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
 </head>
-
 <body>
-
-  <div class="container">
-
-    <div class="jumbotron">
+  <div class="jumbotron">
       <h1>
-          <i class="fa fa-facebook-square" aria-hidden="true"></i> Friend Finder</h1>
+          <i class="fa fa-facebook-square"></i> Friend Finder</h1>
       <hr>
-      <h2>Answer a few basic questions. </h2>
-      <h2>Then find the friend with the greatest compatibility!</h2>
-      <br>
-
-      <div>
-        <a href="/survey"><button type="button" class="btn btn-lg btn-primary"><h4><span class="glyphicon glyphicon-list-alt"></span> Go to Survey</h4></button></a>
-      </div>
-
+    <div class="container">
+        <div class="jumbotron bg-info text-white text-center">
+            <h2 class="display-4">Welcome to Friend Finder</h2>
+            <p class="h5">Answer a few questions to find your buddy!</p>
+        </div>
+        <br>
+        <a href="/survey" id="surveyButton" class="btn-lg btn-block btn-primary text-white text-center">Take Survey</a>
+        <br>
+        <p><a href="/api/friends" target="_blank">API Friends List</a> | <a href="https://github.com/minj12/FriendFinder" target="_blank">GitHub Repo</a></p>
+        <br>
     </div>
-
-    <footer class="footer">
-      <div class="container">
-        <p>
-           <a href="/api/friends">API Friends List</a> |
-           <a href="https://github.com/minj12/FriendFinder">GitHub Repo</a>
-        </p>
-      </div>
-    </footer>
-
-  </div>
-
+    <!-- Compiled and minified CSS & JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>
