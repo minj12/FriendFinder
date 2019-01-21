@@ -16,6 +16,6 @@ Once the test is done you will be matched with your potential friend.
 * Heroku
 * And more...
 
-## bugs
+## Bugs
 *file convetioning and order issue breaks process and cause errors
 
