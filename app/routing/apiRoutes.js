@@ -1,6 +1,6 @@
 //Referenced code peovided by class exerercise 16-HotResteraunt and 14-StarWars
 
-module.exports = function (app, data) {
+gimodule.exports = function (app, data) {
 
     // API GET Requests
     app.get("/api/friends", function (req, res) {
