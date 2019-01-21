@@ -18,7 +18,7 @@ module.exports = [
     {
         name: "Sponge-Bob Squarepants",
         image: "https://media.giphy.com/media/3ohuPpJ3YIQmcOVyJW/giphy.gif",
-        scores: [4, 3, 4, 1, 4, 5, 2, 1, 2, 3],
+        scores: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
     },
     {
         name: "Joey Tribiani",
