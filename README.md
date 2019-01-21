@@ -5,7 +5,7 @@ Once the test is done you will be matched with your potential friend.
 
 ## Deployment
 
-*link to app*: https://git.heroku.com/shrouded-journey-99002.git
+*link to app*: https://shrouded-journey-99002.herokuapp.com
 * With files: node start
 
 ## Used Technology
