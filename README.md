@@ -35,6 +35,6 @@ Once the test is done you will be matched with your potential friend.
 * 14-Final Star-Wars App
 * 16-Hot-Restruant
 
-## Bugs
-*file convetioning and order issue breaks process and cause errors
+## Bugs Fixed
+*file conventioning and order issue breaks process and cause errors
 
