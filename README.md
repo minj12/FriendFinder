@@ -13,6 +13,7 @@ Once the test is done you will be matched with your potential friend.
 4. Press submit and see if you found a match.
 
 ![survey](https://github.com/minj12/FriendFinder/blob/master/images/survey.JPG)
+In this example, a user is matched with a cartoon character.
 
 ## Deployment
 
